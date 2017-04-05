@@ -1,0 +1,212 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "Resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxRes.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "Resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxRes.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""Res\\GameFrame.rc2""  // 不是由 Microsoft Visual C++ 编辑过的资源\r\n"
+    "#include ""afxRes.rc""     // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,1,0,4
+ PRODUCTVERSION 1,1,0,4
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "FileDescription", "游戏客户端框架"
+            VALUE "FileVersion", "1, 1, 0, 4"
+            VALUE "InternalName", "GameFrame.dll"
+            VALUE "OriginalFilename", "GameFrame.dll"
+            VALUE "ProductName", "游戏客户端框架"
+            VALUE "ProductVersion", "1, 1, 0, 4"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_EMPTY_MAINFRAME DIALOGEX 0, 0, 200, 103
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_CLIPCHILDREN | WS_SYSMENU
+FONT 9, "宋体", 400, 0, 0x86
+BEGIN
+END
+
+IDD_EMPTY_DLG DIALOGEX 0, 0, 200, 63
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_CLIPCHILDREN | WS_SYSMENU
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_MSG_T               BITMAP                  "Res\\Chat\\T.bmp"
+IDB_MSG_B               BITMAP                  "Res\\Chat\\B.bmp"
+IDB_MSG_L               BITMAP                  "Res\\Chat\\L.bmp"
+IDB_MSG_R               BITMAP                  "Res\\Chat\\R.bmp"
+IDB_MSG_BL              BITMAP                  "Res\\Chat\\BL.bmp"
+IDB_MSG_BR              BITMAP                  "Res\\Chat\\BR.bmp"
+IDB_USER_TIMER          BITMAP                  "Res\\USER_TIMER.bmp"
+IDB_USER_READY          BITMAP                  "Res\\USER_READY.bmp"
+IDB_USER_STATUS         BITMAP                  "Res\\USER_STATUS.bmp"
+IDB_BT_EXPESSION        BITMAP                  "Res\\BT_EXPESSION.bmp"
+IDB_BT_COLOR_SET        BITMAP                  "Res\\BT_COLOR_SET.bmp"
+IDB_BT_CLEAN_SCREEN     BITMAP                  "Res\\BT_CLEAN_SCREEN.bmp"
+IDB_BT_SEND_CHAT        BITMAP                  "res\\BT_SEND_CHAT.bmp"
+IDB_BT_OPTION           BITMAP                  "res\\BT_OPTION.bmp"
+IDB_BT_QUIT             BITMAP                  "res\\BT_QUIT.bmp"
+IDB_BT_MAX              BITMAP                  "res\\BT_MAX.bmp"
+IDB_BT_MIN              BITMAP                  "res\\BT_MIN.bmp"
+IDB_BT_GAME_RULE        BITMAP                  "res\\BT_GAME_RULE.bmp"
+IDB_TOOLBAR             BITMAP                  "res\\ToolBar\\ToolBar.bmp"
+IDB_TOOLBAR_SHOWCHAT    BITMAP                  "res\\ToolBar\\Pop.bmp"
+IDB_TOOLBAR_SHOWUSER    BITMAP                  "res\\ToolBar\\Pop.bmp"
+IDB_TOOLBAR_CHATSEND    BITMAP                  "res\\ToolBar\\ChatSend.bmp"
+IDB_TOOLBAR_CHATDICT    BITMAP                  "res\\ToolBar\\ChatDict.bmp"
+USERLIST_T              BITMAP                  "res\\UserList\\UserList_T.bmp"
+USERLIST_L              BITMAP                  "res\\UserList\\UserList_L.bmp"
+USERLIST_R              BITMAP                  "res\\UserList\\UserList_R.bmp"
+USERLIST_B              BITMAP                  "res\\UserList\\UserList_B.bmp"
+USERLIST_S_T            BITMAP                  "res\\UserList\\UserList_S_T.bmp"
+USERLIST_S_M            BITMAP                  "res\\UserList\\UserList_S_M.bmp"
+USERLIST_S_B            BITMAP                  "res\\UserList\\UserList_S_B.bmp"
+USERLIST_S_THUMB        BITMAP                  "res\\UserList\\UserList_S_THUMB.bmp"
+USERLIST_BTN            BITMAP                  "res\\UserList\\UserList_Btn.bmp"
+IDB_CHATMSG_T           BITMAP                  "res\\ChatMsg\\MST_T.BMP"
+IDB_CHATMSG_B           BITMAP                  "res\\ChatMsg\\MST_B.BMP"
+IDB_CHATMSG_L           BITMAP                  "res\\ChatMsg\\MST_L.BMP"
+IDB_CHATMSG_R           BITMAP                  "res\\ChatMsg\\MST_R.BMP"
+IDB_BT_QUIT_X           BITMAP                  "res\\BT_QUIT_X.BMP"
+IDB_FRAME_BT_BUTTON_5   BITMAP                  "Res\\FRAME_BT_BUTTON_5.bmp"
+IDB_FRAME_BT_BUTTON_4   BITMAP                  "Res\\FRAME_BT_BUTTON_4.bmp"
+IDB_FRAME_BT_BUTTON_3   BITMAP                  "Res\\FRAME_BT_BUTTON_3.bmp"
+IDB_FRAME_BT_BUTTON_2   BITMAP                  "Res\\FRAME_BT_BUTTON_2.bmp"
+IDB_FRAME_BT_BUTTON_1   BITMAP                  "Res\\FRAME_BT_BUTTON_1.bmp"
+IDB_TOOLSET             BITMAP                  "Res\\ToolBar\\TOOLSET.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// BIN
+//
+
+RGN_TOOLBAR             BIN                     "res\\ToolBar\\ToolBar.rgn"
+RGN_USERLIST            BIN                     "res\\UserList\\UserList.rgn"
+RGN_CHATMSG             BIN                     "res\\ChatMsg\\ChatMsg.rgn"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_EMPTY_MAINFRAME, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 100
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "Res\GameFrame.rc2"  // 不是由 Microsoft Visual C++ 编辑过的资源
+#include "afxRes.rc"     // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

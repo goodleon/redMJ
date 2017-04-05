@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>乐橙互动游戏平台</title>
+<link href="Css/Style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+.STYLE5 {color: #000000}
+-->
+</style></head>
+<script type="text/JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+<body>
+<table width="79%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>乐橙互动游戏平台</title>
+<link href="Css/Style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+.STYLE7{
+color:#000000;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<tr>
+  <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img src="images/top_left.gif" width="147" height="118" /></td>
+      <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="724" height="118">
+        <param name="movie" value="images/top.swf" />
+        <param name="quality" value="high" />
+        <embed src="images/top.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="724" height="118"></embed>
+      </object></td>
+      <td><img src="images/top_reight.gif" width="155" height="118" /></td>
+    </tr>
+    
+  </table></td>
+</tr>
+
+  <tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top"><img src="images/center_01.gif" width="1024" height="5" /></td>
+        </tr>
+    </table>
+      <table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="10%" valign="top"><img src="images/left_01.gif" width="146" height="29" /></td>
+          <td width="733"><table width="96%" height="29" border="0" cellpadding="0" cellspacing="0" background="images/index_bg01.gif" id="__01">
+            <tr>
+              <td width="1%" valign="top"><img src="images/center_02_01.gif" width="9" height="29" alt="" /></td>
+              <td width="24%" valign="top"><style type="text/css">
+<!--
+.STYLE1 {color: #000000}
+-->
+</style>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><img src="images/center_02_02.gif" width="177" height="29" alt="" /></td>
+                </tr>
+                <tr>
+                  <td><table id="__01" width="177" height="152" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td><img src="images/left_05_01.gif" width="11" height="136" alt="" /></td>
+                      <td width="155" valign="top" bgcolor="#EFF2C7">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tab1">
+	  <form id="form1" name="form1" method="post" action="ChkLogin.asp">
+	     <tr>
+          <td align="right" style="height:8px;"></td>
+          </tr>
+        <tr>
+          <td height="30" align="center" class="td">
+            <input name="txtAccount" type="text" class="inputs" size="15" /><input name="userid" type="hidden" value="2" /></td>
+          </tr>
+        <tr>
+          <td height="30" align="center" class="td"><input name="txtPassword" type="password" class="inputs" size="15" /></td>
+          </tr>
+		<tr>
+          <td align="center" style="height:30px;"><input type="checkbox" name="checkbox" value="checkbox" />
+            <span class="STYLE1">记住密码</span></td>
+          </tr>
+        <tr>
+          <td align="center">
+            <table id="__01" width="142" height="27" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><input type="image" src="images/enter1_01.gif" name="submit"></td>
+                <td><a href="selece_user.asp"><img src="images/enter1_02.gif" alt="" width="44" height="27" border="0" /></a></td>
+                <td><a href="reg.asp"><img src="images/enter1_03.gif" alt="" width="49" height="27" border="0" /></a></td>
+              </tr>
+            </table></td>
+        </tr>
+		</form>
+      </table>
+	  </td>
+                      <td><img src="images/left_05_03.gif" width="11" height="136" alt="" /></td>
+                    </tr>
+                    <tr>
+                      <td colspan="3"><img src="images/left_05_04.gif" width="177" height="16" alt="" /></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="height:8px;"></td>
+                  </tr>
+                  <tr>
+                    <td><table id="__01" width="175" height="136" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td><a href="download.asp"><img src="images/left_06_01.gif" alt="" width="175" height="74" border="0" /></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="download/乐橙QQ表情安装包.rar" target="_blank"><img src="images/left_06_02.gif" width="175" height="29" alt="" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="download_zm.asp"><img src="images/left_06_03.gif" alt="" width="175" height="33" border="0" /></a></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="height:2px;"></td>
+                  </tr>
+                  <tr>
+                    <td><a href="user.asp"><img src="images/left_07.gif" width="180" height="84" border="0" /></a></td>
+                  </tr>
+                </table>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="height:5px;"></td>
+                  </tr>
+                  <tr>
+                    <td>
+					<table width="97%" border="0" cellpadding="0" cellspacing="0">
+						<tr><td><img src="images/01_lfet.gif" width="177" height="3" /></td></tr>
+					  
+						<tr>
+						  <td background="images/02_left.gif"><a href="game_js_xx.asp?id=27"><img src="img/majiang.gif" width="175" height="62" border="0"></a></td>
+						</tr>
+						<tr>
+						  <td background="images/02_left.gif" style="height:12px;"></td>
+						</tr>
+					  
+						<tr>
+						  <td background="images/02_left.gif"><a href="game_js_xx.asp?id=24"><img src="img/doudizhu.gif" width="175" height="62" border="0"></a></td>
+						</tr>
+						<tr>
+						  <td background="images/02_left.gif" style="height:12px;"></td>
+						</tr>
+					  
+						<tr>
+						  <td background="images/02_left.gif"><a href="game_js_xx.asp?id=23"><img src="img/888hulu.gif" width="175" height="62" border="0"></a></td>
+						</tr>
+						<tr>
+						  <td background="images/02_left.gif" style="height:12px;"></td>
+						</tr>
+					  
+						<tr>
+						  <td background="images/02_left.gif"><a href="game_js_xx.asp?id=21"><img src="img/xiangqi.gif" width="175" height="62" border="0"></a></td>
+						</tr>
+						<tr>
+						  <td background="images/02_left.gif" style="height:12px;"></td>
+						</tr>
+					  
+						<tr>
+						  <td><img src="images/03_left.gif" width="177" height="5" /></td>
+					  </tr>
+					</table>
+					</td>
+                  </tr>
+                </table></td>
+              <td width="50%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><img src="images/01.gif" width="534" height="9" /></td>
+                </tr>
+                <tr>
+                  <td background="images/02.gif"><table width="99%" border="0" align="center">
+                      <tr>
+                        <td width="70%" style="height:25px; font-family:'宋体'; font-size:12px; color:#000000"><strong><a href="http://www.lacogame.com/default.asp"><font color="#00000">首页</font></a>--》 游戏下载</strong></td>
+                        </tr>
+                      <tr>
+                        <td style="height:25px; font-family:'宋体'; font-size:16px; color:#000000"><table width="100%" border="0">
+                          <tr>
+                            <td height="50" align="center"><img src="images/httpdl.gif" height="30" /></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">网通下载</span></a></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">电信下载</span></a></td>
+                            <td height="50" align="center"><img src="images/btdl.gif" /></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">网通下载</span></a></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">电信下载</span></a></td>
+                          </tr>
+                          <tr>
+                            <td height="50" align="center"><img src="images/xldl.gif" /></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">网通下载</span></a></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">电信下载</span></a></td>
+                            <td height="50" align="center"><img src="images/kcdl.gif" /></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">网通下载</span></a></td>
+                            <td height="50"><a href="download/乐橙游戏平台.exe"><span class="STYLE5">电信下载</span></a></td>
+                          </tr>
+                          <tr>
+                            <td height="50" align="center"><img src="images/qtxz.gif" width="75" height="30" /></td>
+                            <td height="50"><a href="http://www.sogouba.com/youxijianjie.php?id=4"><span class="STYLE5">网通下载</span></a></td>
+                            <td height="50"><a href="http://www.sogouba.com/youxijianjie.php?id=4"><span class="STYLE5">电信下载</span></a></td>
+                            <td height="50" align="center">&nbsp;</td>
+                            <td height="50">&nbsp;</td>
+                            <td height="50">&nbsp;</td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td><img src="images/03.gif" width="534" height="9" /></td>
+                </tr>
+              </table>
+              </td>
+              <td width="1%" valign="top" align="left"><img src="images/center_02_07.gif" width="10" height="29" alt="" /></td>
+            </tr>
+			<tr><td colspan="5" style="height:4px;"></td></tr>		
+            <tr>
+              <td colspan="5" valign="top"><img src="images/index_d01.gif" width="733" height="17" /></td>
+            </tr>
+          </table></td>
+          <td width="30%" valign="top"><img src="images/left_02.gif" width="145" height="50" /></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td><table width="556" border="0" align="center" class="tab1">
+      <tr>
+        <td align="center" class="td">版权所有：乐橙互动科技发展有限公司  冀ICP B2--20080000</td>
+      </tr>
+      <tr>
+        <td align="center" class="td"> 抵制不良游戏，拒绝盗版游戏。
+注意自我保护，谨防受骗上当。 <br>
+适度游戏益脑，沉迷游戏伤身。 
+合理安排时间，享受健康生活。 <br>
+<script language="javascript" src="http://count46.51yes.com/click.aspx?id=463834786&logo=7"></script>
+<script src='http://s132.cnzz.com/stat.php?id=800570&web_id=800570&show=pic1' language='JavaScript' charset='gb2312'></script>
+ </td>
+      </tr>
+      
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+

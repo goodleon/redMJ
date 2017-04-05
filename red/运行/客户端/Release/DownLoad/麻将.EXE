@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>乐橙互动游戏平台</title>
+<link href="Css/Style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+.STYLE5 {color: #000000}
+-->
+</style></head>
+<script type="text/JavaScript">
+<!--
+function MM_callJS(jsStr) { //v2.0
+  return eval(jsStr)
+}
+//-->
+</script>
+<body>
+<table width="79%" border="0" align="center" cellpadding="0" cellspacing="0">
+ <font face="宋体" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="宋体" size=2>错误 '80040e4d'</font>
+<p>
+<font face="宋体" size=2>用户 'web.lacogame.com' 登录失败。</font>
+<p>
+<font face="宋体" size=2>/conn.asp</font><font face="宋体" size=2>，行 22</font> 
